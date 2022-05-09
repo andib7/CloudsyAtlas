@@ -30,6 +30,9 @@ class Movement extends Phaser.Scene {
             yoyo: true
         });
 
+
+
+        
         // Idle right
         this.anims.create({
             key: 'idle_right',
